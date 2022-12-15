@@ -6,6 +6,25 @@
 ## Technical considerations: HTML, CSS, JavaScript
 ## Deliverables and Responsibilities: To create a website that allows users to complete a quick survey and help determine where to eat around Humber IGS. The website also provides recommendations on different cuisines around the area as well as deals and promotions for cheaper meals. The website will also feature a "eat healthy page" for those who are vegetarian or wishes a healthy lifestyle.
 
+## Pages by each group member:
+ - [x] articles: Leon Schedlin Cazrlinski
+ - [x] careers_confirm: Amos Chew Syh Ern
+ - [x] careers: Amos Chew Syh Ern
+ - [x] contact_us: Teerawut Sangpueng
+ - [x] contactus_confirm: Teerawut Sangpueng
+ - [x] deals: Simranjot Kaur
+ - [x] donateUS:Amos Chew Syh Ern
+ - [x] faq: Oluwole Obisanya
+ - [x] food_festivals: Teerawut Sangpueng
+ - [x] healthy_eating: Teerawut Sangpueng
+ - [x] home: Oluwole Obisanya
+ - [x] index (login): Simranjot Kaur
+ - [x] privacy: Oluwole Obisanya
+ - [x] recipes: Amos Chew Syh Ern
+ - [x] recommendation: Leon Schedlin Cazrlinski
+ - [x] survey: Leon Schedlin Cazrlinski
+ - [x] terms: Simranjot Kaur
+
 ## Learning curve and challenges for Oluwole Obisanya
 - [x] It’s pretty hard creating this from scratch, although I have a graphical representation of what I need to design, but it takes a lot of trial & error to finally come up with this design which make me feel that I am making progress quickly into web development.
 - [x] Trying to fix the "Weird Space" that shoots outside the body layout is yet another challenge that I encountered while working on this project. Literally, we all have this same issue as a group. How I fixed this? I really can't explain! 
